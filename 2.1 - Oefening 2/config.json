@@ -1,11 +1,8 @@
 {
-  "type": "exercise",
-  "programming_language": "python",
-  "access": "public",
   "description": {
     "names": {
       "nl": "Oefening 2",
-      "en": "Exercise 2"
+      "en": "Excercise 2"
     }
   },
   "evaluation": {
@@ -19,5 +16,4 @@
     "token": "wG6x-76WA4yGK-j-xMmGNgTYJ-DCIhD7jmbxiKSZ5bx9i8vm_EA6XaYAWxkEGadd",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
-}
 }
