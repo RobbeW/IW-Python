@@ -9,19 +9,14 @@
     }
   },
   "evaluation": {
-    "handler": "python",
-    "image": "dodona/dodona-python",
-    "time_limit": 10,
-    "memory_limit": 10000000,
-    "network_enabled": true
+    "pythia_judge": "output"
   },
   "labels": [
-    "python",
-    "VBTL"
+
   ],
-  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "access": "private",
   "internals": {
-    "token": "Q4bNM9c3JTX_-RavHIuNGYKXPsyWBYicZixgQy2RzhmSKIQDy5gBUkFhcg-s68yU",
+    "token": "wG6x-76WA4yGK-j-xMmGNgTYJ-DCIhD7jmbxiKSZ5bx9i8vm_EA6XaYAWxkEGadd",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
