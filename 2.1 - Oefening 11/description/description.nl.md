@@ -1,0 +1,1 @@
+Sarah wil graag weten hoeveel rollen papier ze nodig heeft om een muur zonder deuren of vensters te behangen. Eén rol behangpapier is 10 meter lang en 52 cm breed. Geef de lengte en de hoogte van de muur in. de computer moet het minimum aantal te kopen rollen weergeven.
