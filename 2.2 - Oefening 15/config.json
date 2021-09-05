@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Oefening 15",
+      "en": "Ex. 15"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "VBTL"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "p83EbQSkDYwKgRIAmZqUcDjyQUCFtskVEGscYEiixaKXzji4zgbxFqt9-yhYMZM3",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
