@@ -9,20 +9,7 @@
     }
   },
   "evaluation": {
-    "handler": "TESTed",
-    "plan_name": "testplan.yaml",
-    "options": {
-      "parallel": true,
-      "mode": "batch",
-      "allow_fallback": true,
-      "optimized": true,
-      "linter": {
-        "c": true,
-        "haskell": true,
-        "java": true,
-        "javascript": true,
-        "kotlin": true,
-        "python": true
+    "pythia_judge": "output"
   },
   "labels": [
 
