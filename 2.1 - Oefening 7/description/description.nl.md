@@ -9,4 +9,7 @@ Om een pakje van 68 gram 102 km ver te versturen, betaal je:
 (2.00 + 4 * 0.40 + 11 * 0.30) euro = 6.90 euro
 
 Schrijf een programma dat die prijs onmidellijk berekent. 
-Tip: je zal hierbij moeten afronden naar boven! 
+**Tip: je zal hierbij moeten afronden naar boven of naar beneden.**
+* Begin jouw code met **import math**
+* Naar boven afronden: **math.ceil(x)** 
+* Naar beneden afronden: **math.floor(x)** 
