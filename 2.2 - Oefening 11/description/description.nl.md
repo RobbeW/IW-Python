@@ -6,9 +6,10 @@ Van de **Body Mass Index** heb je wellicht al gehoord, maar wist je ook dat het 
 
 Bereken de BMI. De *Body Mass Index* bereken je door de massa in kilogram te delen door je lengte in meter in het kwadraat. 
 
-BMI < 18.5 betekent ondergewicht. 
-BMI > 25 maar kleiner dan 30 betekent licht overgewicht. 
-BMI > 30 betekent overgewicht. 
+* BMI < 18.5 betekent ondergewicht. 
+* BMI >= 18.5 en kleiner of gelijk aan 25 betekent "gezond".
+* BMI > 25 maar kleiner dan 30 betekent licht overgewicht. 
+* BMI > 30 betekent overgewicht. 
 
 **Disclaimer:** 
 
