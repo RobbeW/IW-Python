@@ -1,6 +1,6 @@
 **Opgave**
 
-In het jeugdhuis is het in het weekend gezellig samenkomen met vrienden. De prijzen zijn er niet te Lees de score op 20 in voor drie vakken (algebra, statistiek en meetkunde). Je bent geslaagd als je op elk vak minstens 8 hebt en in totaal minstens 34 op 60. 
+Lees de score op 20 in voor drie vakken (algebra, statistiek en meetkunde). Je bent geslaagd als je op elk vak minstens 8 hebt en in totaal minstens 34 op 60. 
 
 
 * Sarah: 11, 7 en 15
