@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "Opdracht 2 – Cupcakes Tellen",
+      "en": "Ex. 2 - Counting Cupcakes"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "VBTL"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "W6mw4qwt7pNYHHM-zkrErp6t2tHXucnY3yzRmgwNBRwA4kmPWknJqK_ViXWWqpK4",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

@@ -1,0 +1,16 @@
+**Voorwaardelijke Herhaling Opdracht 7 – De ovenklok**
+
+**Gegeven:**
+
+Marieke en Simon willen cupcakes bakken, maar de besturingsmodule van de ‘smart oven’ is stuk. 
+* Deze meet de kamertemperatuur en verwarmt de oven totdat hij de gevraagde temperatuur bereikt heeft. 
+* Dit verwarmen doet de oven in stapjes van 10 graden Celsius. 
+* Bij elk stapje verschijnt op de display van de oven: “De temperatuur van de oven is nu X graden en stijgende”. 
+* Wanneer de oven klaar is, verschijnt “De oven is voorverwarmd.” 
+
+**Gevraagd:**
+
+Schrijf de programmacode voor deze oven. 
+* De **kamertemperatuur is 20 graden Celsius.** 
+* De nodige temperatuur om cupcakes te bakken is **180 graden Celsius.** 
+* Laat de juiste uitvoer verschijnen op het display van de oven. 
