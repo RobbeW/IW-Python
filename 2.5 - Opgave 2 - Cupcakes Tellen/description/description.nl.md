@@ -6,7 +6,7 @@ Marieke en Simon verkopen cupcakes om hun eindejaarsreis op school te sponsoren.
 
 De prijs per cupcake bedraagt 1.50 euro. 
 
-*Gevraagd:**
+**Gevraagd:**
 
 * Schrijf de code zodat de gebruiker gevraagd wordt naar het aantal te bestellen cupcakes. 
 * Als uitvoer verschijnt de totaalprijs op het scherm. 
