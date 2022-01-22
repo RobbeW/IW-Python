@@ -4,7 +4,7 @@
 
 Marieke en Simon verkopen cupcakes om hun eindejaarsreis op school te sponsoren. Ze willen dit doen aan de hand van een digitale tool. Deze tool vraagt naar het aantal te bestellen cupcakes en berekent de totaalprijs. 
 
-De prijs per cupcake bedraagt 1.50 euro. 
+De prijs per cupcake bedraagt 1.20 euro. 
 
 **Gevraagd:**
 
