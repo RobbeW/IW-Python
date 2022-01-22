@@ -8,7 +8,7 @@ Simon beslist om zijn loon uit de studentenjob te sparen via de bank. Hij zet ee
 
 Schrijf de code met volgende drie getallen, namelijk: 
 * Startbedrag *(=willekeurig bedrag van 500 tot en met 1000 euro)* 
-* Aantal jaar te sparen *(= in te vullen door de gebruiker)*
-* De interest per jaar *(= in te vullen door de gebruiker)* 
+* Aantal jaar te sparen *(= geheel getal, in te vullen door de gebruiker)*
+* De interest per jaar *(= 2.0%)* 
 
-Laat dit eindresultaat verschijnen op het scherm met een verzorgd stukje tekst. Zorg dat je in dat stukje tekst kan afleiden wat het startbedrag, aantal jaar sparen en interest waren. 
+Laat dit eindresultaat verschijnen op het scherm met een **verzorgd stukje tekst**. Zorg dat je in dat stukje tekst kan afleiden wat het startbedrag, aantal jaar sparen en interest waren. 
