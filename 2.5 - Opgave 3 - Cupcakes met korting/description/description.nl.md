@@ -2,7 +2,7 @@
 
 **Gegeven:**
 
-Marieke en Simon zien het groots en passen hun code aan. Bij tien cupcakes krijgt de gebruiker 10% korting. Bij 50 cupcakes wordt dat 15% korting. Wanneer 100 cupcakes besteld worden, stijgt de korting naar 20%. Wanneer er minder dan tien cupcakes besteld worden, is er natuurlijk geen korting. 
+Marieke en Simon zien het groots en passen hun code aan. Bij tien cupcakes krijgt de gebruiker 10% korting. Bij 50 cupcakes wordt dat 15% korting. Wanneer 100 cupcakes besteld worden, stijgt de korting naar 25%. Wanneer er minder dan tien cupcakes besteld worden, is er natuurlijk geen korting. 
 
 **Gevraagd:**
 
