@@ -1,8 +1,35 @@
-- tab: "Feedback"
-  contexts:
-  - stdin: |
-      120
-      75
-    stdout: |
-      390
-      9000
+{
+ "tabs": [
+  {
+   "name": "Oplossing 2.1 - Een Meetkundig Voorbeeld (Oef 1)",
+   "runs": [
+    {
+     "contexts": [
+      {
+       "testcases": [
+        {
+         "input": {
+          "type": "function",
+          "name": "schrijf",
+          "arguments": [
+           {
+            "type": "int",
+            "data": "120"
+           }
+          ]
+         },
+         "output": {
+          "stdout": {
+           "type": "text",
+           "data": "input-1"
+          }
+         }
+        }
+       ]
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}
