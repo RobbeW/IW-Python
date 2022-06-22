@@ -34,10 +34,10 @@ en die **data** heeft een **datatype**.
 
 De meest courante **datatypes** binnen deze cursus: 
 
-**String:** een reeks karakters zoals een naam, een wachtwoord, een adres ... (opgelet: met strings kan je niet rekenen)
-**Integer:** gehele getallen zoals 4, 675, 1044
-**Float:** decimale getallen zoals 3.14 of 456.8756 (opgelet: punten, geen komma!)
-**Boolean:** kan enkel de waarde **True** of **False** hebben.
+* **String:** een reeks karakters zoals een naam, een wachtwoord, een adres ... (opgelet: met strings kan je niet rekenen)
+* **Integer:** gehele getallen zoals 4, 675, 1044
+* **Float:** decimale getallen zoals 3.14 of 456.8756 (opgelet: punten, geen komma!)
+* **Boolean:** kan enkel de waarde **True** of **False** hebben.
 
 **Gegeven:**
 
