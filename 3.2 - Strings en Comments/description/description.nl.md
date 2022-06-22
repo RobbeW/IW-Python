@@ -36,3 +36,4 @@ Een string is te herkennen aan de aanhalingstekens. Bij Python mag je kiezen wel
  **Opgave:** 
  
  * Test bovenstaande casussen uit via de code editor;
+ * Noteer onder elke foute coderegel **waarom** deze incorrect is. 
