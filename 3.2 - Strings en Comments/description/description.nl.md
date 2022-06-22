@@ -1,4 +1,4 @@
-# Herhaling: wat is een 'string'? 
+# Herhaling: wat is een 'string' en waarom gebruiken we comments? 
 
 **Woorden in Python** 
 
