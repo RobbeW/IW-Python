@@ -19,7 +19,7 @@ kunnen aanspreken.
 Een string is te herkennen aan de aanhalingstekens. Bij Python mag je kiezen welke jij gebruikt, enkele of dubbele tekens, maar wees consequent op twee niveaus, namelijk:
 
 * 1) binnen een regel code: je mag enkele en dubbele aanhalingstekens niet mengen binnen een string. Dus de string "temperatuur' is niet correct en zal een foutmelding geven. 
-* 2) binnen jouw programma: wees consequent binnen jouw volledige code. Wissel niet constant af. Doe je dit wel, dan schaadt je daarmee de **leesbaarheid** van de code door anderen. 
+* 2) binnen jouw programma: wees consequent binnen jouw volledige code. Wissel niet constant af. Doe je dit wel, dan schaad je daarmee de **leesbaarheid** van de code door anderen. 
 
 **Een voorbeeld van 1) binnen een regel code:**
 
