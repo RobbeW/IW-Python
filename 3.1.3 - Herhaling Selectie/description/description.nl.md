@@ -80,6 +80,8 @@ Opgelet: code die hoort tot een functie krijgt een indent of inspringing.
     </tr>
 </table>
 
+</br>
+
 **Gegeven:**
 Een printer kan kleurkopies afdrukken door gebruik te maken van toner. Een soort poeder dat fungeert als kleurstof. Wanneer deze bijna op is (75% leeg), krijgen de mensen van de IT-dienst een melding van het toestel om een extra bestelling toner te plaatsen. 
 
