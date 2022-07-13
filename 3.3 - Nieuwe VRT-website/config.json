@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "3.3.3 - Nieuwe VRT-website",
+      "en": "3.3.3 - New VRT Website"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "VBTL"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "4As99W5cpk3yiP2SCzceNNmDwz9IQHAvcapmwTujksrniNbNtFZhk_HJ89AQ4F4H",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
