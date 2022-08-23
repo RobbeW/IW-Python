@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "3.1.7 - Opdracht 2 – Fietsentelling aan de Coupure",
+      "nl": "Opdracht 2 – Fietsentelling aan de Coupure",
       "en": "Ex. 2 - Counting Bicycles at the Coupure"
     }
   },
@@ -17,7 +17,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "KsJFyZziaiSxU7rdXFeuN5Q7CRvAwZVcy4P3SC9IMnigKwTAIRISgku_Zy87sRgV",
+    "token": "xBESuygm3n8kMjsCFiCRBhWjWy5uy8WBRJew3cf2WekKBtj9wMRcQWjUaPmP8rdV",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

@@ -20,6 +20,7 @@ Elk jaar groeit de bevolking van België aan met 62770 inwoners. Dit door een co
 
 Voor de begrotingsopmaak en de staatsschuld wil men berekenen hoeveel Belgen er zullen zijn in het jaar 2070. 
 Schrijf de code die: 
+
 * per jaar berekent hoeveel inwoners telt;
 * wanneer het jaartal deelbaar is door tien, het jaartal en het aantal inwoners print op het scherm;
 * het aantal inwoners in 2070 print op het scherm.  

@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "3.1.8 - Oefening 3 - Lineaire Groei op Hydrocultuur",
+      "nl": "Oefening 3 - Lineaire Groei op Hydrocultuur",
       "en": "Ex. 3 - Liniair Growth on Hydro Culture"
     }
   },
@@ -17,7 +17,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "nMIGCqPXJQUccQR95WCuAfRdVnckYJ7F6ZriqTG_yPfnqWVFhIAQ8y2_ynwYZZ7K",
+    "token": "xBESuygm3n8kMjsCFiCRBhWjWy5uy8WBRJew3cf2WekKBtj9wMRcQWjUaPmP8rdV",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

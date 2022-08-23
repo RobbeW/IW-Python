@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "3.1.12 - Oefening 7 – Tussenstop op de Etna",
+      "nl": "Oefening 7 – Tussenstop op de Etna",
       "en": "Ex. 7 - Resting Stop on the Etna"
     }
   },
@@ -17,7 +17,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "eBBF2D7hk8u5ukeMmkzE_qZ2NZftMHyAYd8vw7xvegRi_8RgqDnRrE3KUw_JVbG7",
+    "token": "xBESuygm3n8kMjsCFiCRBhWjWy5uy8WBRJew3cf2WekKBtj9wMRcQWjUaPmP8rdV",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

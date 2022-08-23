@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "3.1.9 - Oefening 4 – Exponentiële Groei op Hydrocultuur",
+      "nl": "Oefening 4 – Exponentiële Groei op Hydrocultuur",
       "en": "Ex. 4 - Exponential Growth on Hydro Culture"
     }
   },
@@ -17,7 +17,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "f9qb2cZzqnu_AHsPvbB9QR5ZsPKfQSjKIpHUecvTVhI2d9GEjg9r2_daHCc7-QZt",
+    "token": "xBESuygm3n8kMjsCFiCRBhWjWy5uy8WBRJew3cf2WekKBtj9wMRcQWjUaPmP8rdV",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

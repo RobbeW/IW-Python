@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "3.1.6 - Oefening 1 - De Hoogte van het Belfort",
+      "nl": "Oefening 1 - De Hoogte van het Belfort",
       "en": "Ex. 1 - Height of the Belfry"
     }
   },
@@ -17,7 +17,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "MNYdvx5U_tRY9Q9QFThVUJN4X9byNP8qCptJqTSk7Ksk7nrtqYAxHsj4t6hBr9WX",
+    "token": "xBESuygm3n8kMjsCFiCRBhWjWy5uy8WBRJew3cf2WekKBtj9wMRcQWjUaPmP8rdV",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

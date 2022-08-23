@@ -31,7 +31,7 @@ Een string is te herkennen aan de aanhalingstekens. Bij Python mag je kiezen wel
  
  
  
- ## Oefening
+ ##Oefening
  
  **Opgave:** 
  

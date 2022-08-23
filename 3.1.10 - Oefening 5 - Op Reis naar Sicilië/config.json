@@ -4,7 +4,7 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "3.1.10 - Oefening 5 – Op Reis naar Sicilië",
+      "nl": "Oefening 5 – Op Reis naar Sicilië",
       "en": "Ex. 5 - Travelling to Sicily"
     }
   },
@@ -17,7 +17,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "jxm6FQB94h9h-C3xxm9rY5SdK_8z8SuQGBUaqr3PPX64vjgGx2XIvqnU72vQqjtn",
+    "token": "xBESuygm3n8kMjsCFiCRBhWjWy5uy8WBRJew3cf2WekKBtj9wMRcQWjUaPmP8rdV",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }

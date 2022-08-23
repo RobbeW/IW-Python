@@ -6,13 +6,13 @@ Wanneer we programmeren in een taal zoals Python, zal de computer onze instructi
 
 Bij de **selectie** hanteren we volgende syntax: 
 
-if voorwaarde : 
+* if voorwaarde : 
     actie die uitgevoerd wordt wanneer de voorwaarde TRUE is. 
     
-elif voorwaarde : 
+* elif voorwaarde : 
     actie die uitgevoerd wordt wanneer de voorwaarde TRUE is. 
     
-else: 
+* else: 
     actie die uitgevoerd wordt wanneer de geen van bovenstaande voorwaarden TRUE is. 
     
     
@@ -80,7 +80,6 @@ Opgelet: code die hoort tot een functie krijgt een indent of inspringing.
     </tr>
 </table>
 
-</br>
 
 **Gegeven:**
 Een printer kan kleurkopies afdrukken door gebruik te maken van toner. Een soort poeder dat fungeert als kleurstof. Wanneer deze bijna op is (75% leeg), krijgen de mensen van de IT-dienst een melding van het toestel om een extra bestelling toner te plaatsen. 
