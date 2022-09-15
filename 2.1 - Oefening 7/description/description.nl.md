@@ -12,4 +12,4 @@ Schrijf een programma dat die prijs onmidellijk berekent.
 **Tip: je zal hierbij moeten afronden naar boven of naar beneden.**
 * Begin jouw code met **import math**
 * Naar boven afronden: **math.ceil(x)** 
-* Naar beneden afronden: **math.floor(x)** 
+
