@@ -3,7 +3,7 @@
 Een probleem uit de Oudheid was het verdubbelen van een vierkant. 
 Hier zie je dat de **oppervlakte** van **vierkant PQRS** het **dubbel** is van **vierkant ABCD.**
 
-<img src="https://github.com/RobbeW/IW-Python/blob/main/2.1%20-%20Toetsvraag%201%20-%20Vierkanten%20in%20de%20Oudheid%20-%20De%20Sequentie/description/Vierkant-Oudheid.png"/>
+<img src="https://github.com/RobbeW/IW-Python/blob/main/2.1%20-%20Toetsvraag%201%20-%20Vierkanten%20in%20de%20Oudheid%20-%20De%20Sequentie/description/Vierkant-Oudheid.png?raw=true"/>
 
 ## Gegeven: 
 De gebruiker geeft in dat de zijde van ABCD 5 meter bedraagt.
