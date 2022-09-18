@@ -4,7 +4,7 @@ Lisa heeft een herlaadkaart bij Mobile Vikings en geen abonnement.
 Tijdens de eerste maand na aankoop kan ze goedkoper bellen, gratis surfen en sms’en. 
 Soms komt ze met het budget van 10 euro meer dan 1 maand toe. 
 
-<img src="/Vierkant-Oudheid.png"/>
+<img src="https://images.pexels.com/photos/699122/pexels-photo-699122.jpeg" width="50%"/>
 
 ## Gegeven: 
 Wanneer haar bundel verlopen is, kost het haar 0.20 euro/min om te bellen, 0.10 euro/sms en 0.10 euro/MB internet.
