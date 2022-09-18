@@ -4,8 +4,8 @@
   "access": "public",
   "description": {
     "names": {
-      "nl": "Oefening 10",
-      "en": "Exercise 10"
+      "nl": "2.1 - Toetsvraag 2 - Lisa's Herlaadkaart",
+      "en": "2.1 - Test Exercise 2 - Lisa's Prepaid Card"
     }
   },
   "evaluation": {
@@ -17,7 +17,7 @@
   ],
   "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
   "internals": {
-    "token": "9mxgPDzTuqhrjsuGDHAg9sCBPaecKP6IRRU-hbyZiHAGZIIwcqk_ku2-k8tkpKi5",
+    "token": "hgbg_yJtzVEIF9CMAAN2TN_U6C4hVvGHUa_4c4XZ3hhsCiuXwFsijITtsgfBBQrX",
     "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
   }
 }
