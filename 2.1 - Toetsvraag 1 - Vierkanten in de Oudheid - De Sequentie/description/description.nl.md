@@ -12,4 +12,3 @@ De gebruiker geeft in dat de zijde van ABCD 5 meter bedraagt.
 * Wat is de oppervlakte van vierkant PQRS?  
 * Wat is de **lengte van een zijde** van vierkant PQRS? 
 * Verzorg jouw outputs met volzinnen. Volzinnen hebben een onderwerp, hoofdletters, leestekens … 
-
