@@ -1,6 +1,7 @@
 # Oefening 4: Jouw loopsnelheid
 
 **Gegeven:** 
+
 Fred loopt 39 minuten en legt daarbij 3.65km af. 
 
 **Gevraagd:**
