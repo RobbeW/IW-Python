@@ -12,7 +12,7 @@ y = 7*x - 13
 **Opgave:**
 
 * Schrijf een programma dat naar een x-waarde vraagt
-* print de bijbehorende functiewaarde of y-waarde print naar het scherm.
+* Print de bijbehorende functiewaarde of y-waarde print naar het scherm.
 * Je start met volgende code. Vul deze verder aan waar dit gevraagd is! 
 * De rest van de code neem je over. 
 
