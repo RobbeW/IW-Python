@@ -17,6 +17,7 @@ y = 7*x - 13
 * De rest van de code neem je over. 
 
 ```
+
 #Input - We vragen naar de waarde van x
 x = ... #VUL AAN
 
@@ -38,4 +39,9 @@ import matplotlib.pyplot as plt
 plt.plot(X, Y)
 plt.ylabel('f(x) = 7x-13')
 plt.show()
+
+```
+
+
+
 
