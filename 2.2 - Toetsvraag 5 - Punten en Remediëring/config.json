@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "2.2 - Toetsvraag 5 - Punten en Remediëring",
+      "en": "2.2 - Test Exercise 5 - Grades and Assessment"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "VBTL"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "vjvRXiAA_N4pG6ngg5ZSQA7B__zKACM5JtKVyrdhM_sbTMjD25BbbEHtEXDt67-d",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}

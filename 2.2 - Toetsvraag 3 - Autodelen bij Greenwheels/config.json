@@ -1,0 +1,23 @@
+{
+  "type": "exercise",
+  "programming_language": "python",
+  "access": "public",
+  "description": {
+    "names": {
+      "nl": "2.2 - Toetsvraag 3 - Autodelen bij Greenwheels",
+      "en": "2.2 - Test Exercise 3 - Car sharing with Greenwheels"
+    }
+  },
+  "evaluation": {
+    "pythia_judge": "output"
+  },
+  "labels": [
+    "python",
+    "VBTL"
+  ],
+  "contact": "Robbe W <robbe.wulgaert@sintlievenscollege.be>",
+  "internals": {
+    "token": "vjvRXiAA_N4pG6ngg5ZSQA7B__zKACM5JtKVyrdhM_sbTMjD25BbbEHtEXDt67-d",
+    "_info": "These fields are used for internal bookkeeping in Dodona, please do not change them."
+  }
+}
