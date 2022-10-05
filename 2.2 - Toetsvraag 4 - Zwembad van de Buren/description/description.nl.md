@@ -4,7 +4,7 @@
 
 Twee buren, Eddy en Thierry, in de wijk maken onophoudelijk ruzie over wie er nu het grootste zwembad heeft liggen in de tuin. In tijden van energiebesparing niet de beste beslissing ... maar die ruzie is snel beslecht met een eenvoudige berekening!   
 
-<img src="https://www.ecothermswimmingpools.com/img/round-insulated-pool.jpg"/>
+<img src="https://i.pinimg.com/originals/9e/80/77/9e807701eca9373638dd8bacebae3093.jpg"/>
 
 **Opgave:** 
 
