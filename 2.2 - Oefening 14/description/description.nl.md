@@ -8,3 +8,11 @@ Lees de score op 20 in voor drie vakken (algebra, statistiek en meetkunde). Je b
 * Djan: 8, 11 en 9
 
 Ga na wie geslaagd is en wie niet. 
+
+Je start jouw oefening met onderstaande code: 
+
+```
+algebra = float(input('Vul de score in voor het onderdeel algebra:))
+statistiek = float(input('Vul de score in voor het onderdeel statistiek:))
+meetkunde = float(input('Vul de score in voor het onderdeel meetkunde:))
+```
