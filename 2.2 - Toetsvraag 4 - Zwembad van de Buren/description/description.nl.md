@@ -1,4 +1,4 @@
-# 2.2 - Toetsvraag 4 - Zwembad bij de Buren
+# 2.2 - Toetsvraag 4 - Zwembad bij de Buren (5 punten)
 
 **Gegeven:** 
 
