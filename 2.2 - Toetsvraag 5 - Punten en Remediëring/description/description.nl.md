@@ -1,4 +1,4 @@
-# 2.2 - Toetsvraag 5 - Punten en Remediëring
+# 2.2 - Toetsvraag 5 - Punten en Remediëring (2 punten)
 
 
 **Opgave:** 
