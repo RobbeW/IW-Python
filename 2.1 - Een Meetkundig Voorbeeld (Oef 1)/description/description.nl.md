@@ -1,4 +1,4 @@
-# 2.1 - Meetkundig Probleem 1
+# Meetkundig Probleem - Oefening 1
 **Gegeven:**
 
 Fred is jobstudent en is verantwoordelijk om de lijnen te tekenen op het voetbalveld van KAA Gent. Dit is zijn allereerste keer dat hij dit moet doen. 
