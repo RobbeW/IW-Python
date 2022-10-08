@@ -13,4 +13,4 @@ Wanneer je aan diepteduiken doet, moet je opletten bij het terugkeren naar de op
 
 **Opgave:** 
 
-Schrijf een programma voor een eenvoudige duikcomputer. Die vraagt naar de **tijdsduur** van jouw duik en geeft weer hoe lang en op welke diepte de duiker moet pauzeren wanneer hij/zij/hun aan **decompressie** doet. 
+Schrijf een programma voor een eenvoudige duikcomputer. Die vraagt naar de **tijdsduur** van jouw duik op 18 meter diepte en weergeeft hoe lang en op welke diepte de duiker moet pauzeren wanneer hij/zij/hun aan **decompressie** doet. 
