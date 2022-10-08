@@ -1,4 +1,4 @@
-# 2.2 - Toetsvraag 2 - Deelbaarheid
+# 2.2 - Toetsvraag 2 - Deelbaarheid (2 punten)
 
 **Gegeven:** 
 
