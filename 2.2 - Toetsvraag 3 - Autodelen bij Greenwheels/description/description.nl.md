@@ -1,4 +1,4 @@
-# 2.2 - Toetsvraag 3 - Autodelen bij Greenwheels
+# 2.2 - Toetsvraag 3 - Autodelen bij Greenwheels (4 punten)
 
 **Gegeven:** 
 
