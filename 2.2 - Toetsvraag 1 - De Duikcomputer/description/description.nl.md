@@ -1,4 +1,4 @@
-# 2.2 - Toetsvraag 1 - De Duikcomputer
+# 2.2 - Toetsvraag 1 - De Duikcomputer (3 punten)
 
 **Gegeven:** 
 Wanneer je aan diepteduiken doet, moet je opletten bij het terugkeren naar de oppervlakte. Ga je te snel, dan verandert de druk zo snel dat je gevaar loopt. De duiker gaat bij het stijgen van een omgeving met hogere druk naar een omgeving met lagere druk. Daarom moet je op bepaalde punten even stoppen. De duiker doet hier dus aan **decompressie**. Dat betekent letterlijk *"ontdrukken"*. 
