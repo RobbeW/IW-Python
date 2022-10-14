@@ -12,7 +12,7 @@ Ga na wie geslaagd is en wie niet.
 Je start jouw oefening met onderstaande code: 
 
 ```
-algebra = float(input('Vul de score in voor het onderdeel algebra:))
-statistiek = float(input('Vul de score in voor het onderdeel statistiek:))
-meetkunde = float(input('Vul de score in voor het onderdeel meetkunde:))
+algebra = float(input('Vul de score in voor het onderdeel algebra:'))
+statistiek = float(input('Vul de score in voor het onderdeel statistiek:'))
+meetkunde = float(input('Vul de score in voor het onderdeel meetkunde:'))
 ```
