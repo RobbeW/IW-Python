@@ -15,4 +15,4 @@ Bijvoorbeeld:
 * Deler = 1, dan is de uitkomst 25. Dat is een positief geheel getal, rest is nul.
 
 
-Gebruik voor deze oefening dus de rest na euclidische deling, operator daarvoor is //. 
+Gebruik voor deze oefening dus de rest na deling, dus de modulo. De operator daarvoor is %. 
