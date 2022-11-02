@@ -1,6 +1,6 @@
 **Opgave:**
 
-Lees een positief getal in en druk zijn delers af welke een positief geheel getal als quotiënt uitkomen. 
+Lees een positief geheel getal in. Druk enkel de delers af bij die getallen die een positief geheel getal als quotiënt uitkomen.
 
 Bijvoorbeeld: 
 
