@@ -1,4 +1,4 @@
-# Toetsvraag 4 - Begrensde Herhaling – Ken jij het kwadraat van ...?**
+# Toetsvraag 4 - Begrensde Herhaling – Ken jij het kwadraat van ...?
 
 **Gevraagd:**
 
