@@ -6,7 +6,7 @@
 Voorspel de uitvoer van volgend programma: 
 (noteer als: uitvoer = 'antwoord') 
 
-
+```
 a = 28
 print ('Vermoeden van Collatz')
 while a != 1: 
@@ -17,3 +17,4 @@ while a != 1:
     a = int(a * 3 + 1)
 print(a)
 print("stop")
+````
