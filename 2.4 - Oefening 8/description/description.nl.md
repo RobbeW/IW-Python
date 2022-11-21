@@ -1,4 +1,4 @@
- # Het vermoeden van Collatz
+# Het vermoeden van Collatz
 
 Het vermoeden van Collatz is een vermoeden in de getaltheorie dat zegt dat een bepaalde iteratie in alle gevallen uitloopt op het getal 1, om het even welk getal n als beginwaarde gekozen wordt.
 
