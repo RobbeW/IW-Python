@@ -18,6 +18,6 @@ Laura en haar groep vrienden plannen een reis naar Sicilië. Ze gaan negen dagen
 **Gevraagd:**
 
 * schrijf de code die de gebruiker vraagt naar een aantal reizigers (bijvoorbeeld 4); 
-* bereken de kostrpijs voor beide formules;
+* bereken de kostprijs voor beide formules;
 * toon de meest voordelige formule en de totaalprijs op het scherm; 
 * toon dit in een verzorgde Nederlandse zin.
