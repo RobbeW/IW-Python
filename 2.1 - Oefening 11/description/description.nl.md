@@ -5,8 +5,8 @@ Om te berekenen hoeveel rollen behangpapier er nodig zijn om een muur te behange
 **Gevraagd:**
 
 * Vraag aan de gebruiker om de lengte en de hoogte van de muur in meter in te voeren;
-* Bereken het totale oppervlak van de muur;
-* Bereken het totale oppervlak van één rol behangpapier; 
+* Bereken de totale oppervlakte van de muur;
+* Bereken de totale oppervlakte van één rol behangpapier; 
 * Bepaal het minimum aantal rollen behangpapier dat nodig is om de muur te behangen;
 * Rond het resultaat naar boven af met behulp van de functie `math.ceil()`;
 * Print het minimum aantal te kopen rollen behangpapier naar het scherm in de volgende vorm: "U hebt [aantal_rollen] rollen behangpapier nodig om de muur te behangen."
