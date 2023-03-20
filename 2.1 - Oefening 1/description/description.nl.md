@@ -14,5 +14,12 @@ Om de oppervlakte van een vierkant te berekenen, moet je de lengte van één zij
 * Bereken de **omtrek** van het vierkant met behulp van de bovenstaande formule.
 * Bereken de **oppervlakte** van het vierkant met behulp van de bovenstaande formule.
 * Print de omtrek en oppervlakte van het vierkant naar het scherm in de volgende vorm: "De omtrek van het vierkant is: ... " en "De oppervlakte van het vierkant is: ... "
-* Voer tests uit met verschillende zijden, zoals 5, 10, 8 enzovoort. Zorg ervoor dat de code correct werkt en de juiste waarden weergeeft. 
+* Voer tests uit met verschillende zijden, zoals 5, 10 en 8. Zorg ervoor dat de code correct werkt en de juiste waarden weergeeft. 
 * Vergeet niet om te **debuggen** en eventuele fouten op te lossen.
+
+**Invoer:**
+```
+5
+10
+8
+```
