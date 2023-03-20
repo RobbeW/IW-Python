@@ -1,4 +1,4 @@
-# Oppervlakte vierkant
+# Vierkant
 
 **Gegeven:**
 
