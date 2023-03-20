@@ -1,3 +1,5 @@
+# Oppervlakte vierkant
+
 **Gegeven:**
 
 Een vierkant is een rechthoek met gelijke zijden. Om de omtrek van een vierkant te berekenen, moet je de lengte van alle vier de zijden bij elkaar optellen. De formule voor de omtrek van een vierkant is:
@@ -10,16 +12,13 @@ oppervlakte = zijde x zijde
 ```
 **Gevraagd:**
 
-* Vraag aan de gebruiker naar de lengte van een zijde van een vierkant (=**input**).
+* Maak een variabele aan om de lengte van de zijde van het vierkant in te bewaren.
 * Bereken de **omtrek** van het vierkant met behulp van de bovenstaande formule.
 * Bereken de **oppervlakte** van het vierkant met behulp van de bovenstaande formule.
-* Print de omtrek en oppervlakte van het vierkant naar het scherm in de volgende vorm: "De omtrek van het vierkant is: ... " en "De oppervlakte van het vierkant is: ... "
-* Voer tests uit met verschillende zijden, zoals 5, 10 en 8. Zorg ervoor dat de code correct werkt en de juiste waarden weergeeft. 
+* Print de omtrek en oppervlakte van het vierkant naar het scherm in de volgende vorm: "De omtrek van het vierkant is ... " en "De oppervlakte van het vierkant is ... "
 * Vergeet niet om te **debuggen** en eventuele fouten op te lossen.
 
 **Invoer:**
 ```
-5
-10
-8
+De lengte van de zijde bedraagt: 5 meter. 
 ```
